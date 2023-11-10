@@ -12,7 +12,11 @@ Departments
 ## Directories
 The basket analysis has been categorized into the following directories:
 Project Management: Contains the Project Brief
+
 Data: Separated into Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. NOTE: This folder has not been included
+
 Scripts: Contains all the Python coding involved for the entire analysis process
+
 Analysis: Contains the Visualizations used for developing insights and presenting on the final report
+
 Sent to client: Contains the Final Report in Excel
